@@ -1,9 +1,14 @@
-# api documentation for  [react-native-blur (v2.0.0)](https://github.com/react-native-fellowship/react-native-blur)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-blur.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-blur) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-blur.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-blur)
+# npmdoc-react-native-blur
+
+#### api documentation for  [react-native-blur (v2.0.0)](https://github.com/react-native-fellowship/react-native-blur)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-blur.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-blur) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-blur.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-blur)
+
 #### React Native Blur component
 
-[![NPM](https://nodei.co/npm/react-native-blur.png?downloads=true)](https://www.npmjs.com/package/react-native-blur)
+[![NPM](https://nodei.co/npm/react-native-blur.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-native-blur)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-react-native-blur/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-react-native-blur_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-native-blur/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-react-native-blur/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-react-native-blur/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-react-native-blur/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-native-blur/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-react-native-blur/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Alexey Kureev",
-        "email": "kureev-mail@ya.ru",
         "url": "https://github.com/Kureev"
     },
     "bugs": {
@@ -43,17 +47,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "grabbou",
-            "email": "grabbou@gmail.com"
+            "name": "grabbou"
         },
         {
-            "name": "kureev",
-            "email": "kureev-mail@ya.ru"
+            "name": "kureev"
         }
     ],
     "name": "react-native-blur",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/react-native-fellowship/react-native-blur.git"
@@ -64,16 +65,6 @@
     "version": "2.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module react-native-blur](#apidoc.module.react-native-blur)
-
-
-
-# <a name="apidoc.module.react-native-blur"></a>[module react-native-blur](#apidoc.module.react-native-blur)
 
 
 
